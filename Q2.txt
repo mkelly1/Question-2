@@ -34,8 +34,8 @@ Prompt user for Width in feet
 int Width = Width * 12
 Prompt user for inches of water
 int Inches_of_Water
-volume_of_water = Multiply Inches_of_Water with Length with Width
-gallons_of_water = volume of water divided by 231
+int volume_of_water = Multiply Inches_of_Water with Length with Width
+float gallons_of_water = volume of water divided by 231
 output gallons_of_water to user
 
 		
