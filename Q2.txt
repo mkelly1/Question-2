@@ -1,9 +1,12 @@
 Question #1 9/3/2019
+
+Algorithm
 Prompt user to enter 10 scores
 Add the scores together
 Divide the sum by the number of scores to get the average
 Output the average
 
+Pseudocode
 int exam_score
 int counter
 int sum
