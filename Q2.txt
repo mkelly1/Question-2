@@ -1,0 +1,26 @@
+Question #2 9/3/2019
+
+Algorithm
+Enter roof width and height in feet
+Multiply width and height by 12 to convert to inches
+Enter inches of water
+Multiply width and height in inches to find area
+Multiply area by inches of rain to get volume_of_water
+Divide volume_of_water by 231 to convert volume_of_water to gallons
+Output volume_of_water in gallons
+
+Pseudocode
+Prompt user for Length in feet
+int Length = Length * 12
+Prompt user for Width in feet
+int Width = Width * 12
+Prompt user for inches of water
+int Inches_of_Water
+volume_of_water = Multiply Inches_of_Waterof water with Length with Width
+gallons_of_water = volume of water divided by 231
+output gallons_of_water
+
+		
+
+
+
